@@ -1,18 +1,11 @@
 Desafio de Ciência de Dados - Indicium Lighthouse 🚀
-LH_CD_VANESSAFERMINODOSSANTOSCAVALCANTE
+
+LH_CD_VANESSAFERMINODOSSANTOSCAVALCANTE(CIENCIA DE DADOS)
+
 Solução do desafio de ciência de dados do programa Lighthouse da Indicium.
 
 🎯 Objetivo do Projeto
 Através da utilização de ferramentas de ciência de dados e machine learning é possível analisar quais são as principais características que determinam o sucesso de um filme e auxiliam na previsão de como serão os retornos com base nas características selecionadas. Dessa forma, a empresa PProductions poderá escolher quais filmes deveram ser lançados para que se obtenha uma maior margem de lucro e a possibilidade de obter boas notas das críticas e do IMDb.
-
-🛠️ Tecnologias Utilizadas
-Linguagem: Python
-
-Bibliotecas de Análise: Pandas, NumPy
-
-Bibliotecas de Machine Learning: Scikit-learn
-
-Bibliotecas de Visualização: Matplotlib, WordCloud
 
 Ambiente: Jupyter Notebook / Google Colab
 
